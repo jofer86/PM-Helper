@@ -1,0 +1,49 @@
+systemName: Brains Agile System
+
+primeDirective:
+  title: Story Management Consistency
+  description: "When working with ANY story updates, changes, or completions"
+  rules:
+    - priority: 1
+      rule: ALWAYS UPDATE DASHBOARD FIRST
+      description: The dashboard (00-Dashboard.md) is the source of truth
+    - priority: 2
+      rule: CASCADE UPDATES
+      description: Update all related components in this order
+      updateOrder:
+        - Dashboard sprint progress and completion percentages
+        - Story status in the story file
+        - Journal entries if applicable
+        - Sprint files if they exist
+        - Any related epic or backlog items
+    - priority: 3
+      rule: MAINTAIN ACCURACY
+      description: Dashboard must reflect real-time project reality
+    - priority: 4
+      rule: NO PARTIAL UPDATES
+      description: "Never update just one component, always update the entire chain"
+
+protocols:
+  storyUpdate:
+    title: Story Update Protocol
+    description: When a story status changes
+    checklist:
+      - Update dashboard sprint section with new completion percentage
+      - Mark story as completed/in-progress in story file
+      - Update any time tracking or progress notes
+      - Verify all linked items are consistent
+      - Check for dependencies that need status updates
+
+sourceOfTruth:
+  file: 00-Dashboard.md
+  requirements:
+    - Current sprint progress with accurate percentages
+    - Real-time story statuses
+    - Up-to-date completion metrics
+    - Accurate project timeline and milestones
+
+consistencyRules:
+  - Story IDs must match across all files
+  - "Status terminology must be consistent (Done, In Progress, Ready, etc.)"
+  - Point calculations must be accurate
+  - Sprint timelines must align across all documents

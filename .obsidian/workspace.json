@@ -11,10 +11,14 @@
             "id": "d941265179bb44f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00-Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "00-Dashboard"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03-Stories/Story - Player Roster Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Story - Player Roster Management"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03-Stories/Story - Player Roster Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Story - Player Roster Management"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "03-Stories/Story - Player Roster Management.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Story - Player Roster Management"
             }
           },
           {
@@ -179,11 +186,45 @@
   },
   "active": "d941265179bb44f0",
   "lastOpenFiles": [
-    "AI-PRODUCT-MANAGER.md",
-    "11-Product-Management/Decision Log.md",
-    "11-Product-Management/Risk Register.md",
-    "11-Product-Management/Stakeholder Updates.md",
-    "11-Product-Management/Product Roadmap.md",
-    "11-Product-Management"
+    "SANITATION_PLAN.md",
+    "03-Stories/ADMIN-S2.5-001 - Super Admin Dashboard.md",
+    "releases/SportsManV1.1.5.md",
+    "releases/SportsManV1.2.0.md",
+    "12-Journal/2025-11-22 - Super Admin Dashboard Foundation Complete.md",
+    "03-Stories/ADMIN-S2.5-005 - Organization Admin Dashboard.md",
+    "03-Stories/ADMIN-S2.5-002 - Team Manager Admin View.md",
+    "03-Stories/ADMIN-S2.5-003 - Player Admin View.md",
+    "03-Stories/ADMIN-S2.5-004 - Parent Admin View.md",
+    "03-Stories/STM-S4-002 - User Authentication & Role Testing.md",
+    "02-Sprints/Sprint-2.5-Polish-BugFix.md",
+    "02-Sprints/Sprint 2 - Communication & Roles.md",
+    "00-Dashboard.md",
+    "11-Product-Management/Sports Team Manager - Product Overview.md",
+    "03-Stories/STM-S2.5-001 - Role-Restricted Invite System.md",
+    "11-Product-Management/PITCH-Team-Managers-English.md",
+    "11-Product-Management/PITCH-Team-Managers-Spanish.md",
+    "02-Sprints/Sprint 4 - Automation Testing Suite.md",
+    "02-Sprints/Sprint 1 - Foundation MVP.md",
+    "02-Sprints/PENDING-Sprint-2.5-Planning-Session.md",
+    "04-Backlog/Sports Team Manager - Product Backlog.md",
+    "11-Product-Management/DISCOVERY-Sports-Commerce-Marketplace.md",
+    "11-Product-Management/DISCOVERY-League-Management-Public-Display.md",
+    "03-Stories/BUG-S2-001 - Invite Codes List Not Visible.md",
+    "12-Journal/2025-11-09 - Role-Restricted Invite System Planning.md",
+    "releases/SportsManV1.1.0.md",
+    "generated-docs/repomix_output.xml",
+    "generated-docs",
+    "12-Journal",
+    "External reports",
+    "assets/images/ui-issues/current-ui-issue-3.png",
+    "assets/images/ui-issues/current-ui-issue-2.png",
+    "assets/images/ui-issues/current-ui-issue-1.png",
+    "assets/images/ui-issues/ui-issue-1761959156.png",
+    "assets/images/design-references",
+    "assets/images/screenshots",
+    "assets/images/mockups",
+    "assets/images/ui-issues",
+    "assets/images",
+    "assets"
   ]
 }
