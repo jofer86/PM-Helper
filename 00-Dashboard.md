@@ -47,6 +47,23 @@
 
 ## 📊 Sprint Summary
 
+### 🎯 Current Sprint
+
+#### Sprint 5 - Role-Specific Admin Dashboards (ACTIVE)
+**Status**: 🎯 READY TO START | **Target**: V1.3.0 | **Duration**: Nov 28 - Dec 12 (2 weeks)  
+**Points**: 4/4 | **Progress**: 0% (0/4 points)
+
+**Stories**:
+- 📋 ADMIN-S2.5-002 - Team Manager Admin View (2 pts, High Priority)
+- 📋 ADMIN-S2.5-003 - Player Admin View (1 pt, Medium Priority)
+- 📋 ADMIN-S2.5-004 - Parent Admin View (1 pt, Medium Priority)
+
+**Sprint Goal**: Deliver 3 role-specific admin dashboards leveraging 70% code reuse from V1.2.0 foundation
+
+[View Sprint 5 Details](02-Sprints/Sprint%205%20-%20Role-Specific%20Admin%20Dashboards.md)
+
+---
+
 ### ✅ Completed Sprints
 
 #### Sprint 1 - Foundation MVP (Nov 1, 2025) ✅
@@ -173,19 +190,20 @@
 
 ## 🎯 Next Actions
 
-### This Week
+### This Week ✅
 1. ✅ Sanitation Complete (Nov 28, 2025)
-2. ⏭️ Plan Sprint 5 for V1.3.0
-3. ⏭️ Start ADMIN-S2.5-002 (Team Manager Admin View)
+2. ✅ Sprint 5 Planning Complete (Nov 28, 2025)
+3. 🎯 **START: ADMIN-S2.5-002** (Team Manager Admin View)
 
-### Next 2 Weeks
-1. ⏭️ Complete V1.3.0 admin dashboards
-2. ⏭️ Update Product Roadmap
-3. ⏭️ Backlog refinement session
+### Next 2 Weeks (Sprint 5)
+1. ⏭️ Complete Team Manager Admin View (2-3 days)
+2. ⏭️ Complete Player Admin View (1-2 days)
+3. ⏭️ Complete Parent Admin View (1-2 days)
+4. ⏭️ Test and deploy V1.3.0
 
-### Next Month
-1. ⏭️ Prioritize communication features
-2. ⏭️ Plan V1.4.0 features
+### After Sprint 5
+1. ⏭️ Backlog refinement session
+2. ⏭️ Prioritize communication features vs V1.4.0
 3. ⏭️ User feedback collection
 
 ---
