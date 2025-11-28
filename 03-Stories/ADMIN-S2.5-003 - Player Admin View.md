@@ -3,14 +3,23 @@
 ## 📝 Properties
 ```yaml
 story-id: ADMIN-S2.5-003
-story-status: Open
-story-priority: Low
+story-status: 📋 READY FOR DEVELOPMENT
+story-priority: Medium
 story-points: 1
 epic: Admin Dashboard System
-sprint: Sprint 2.5 - Polish & Bug Fix
-assignee: Development Team
-labels: [admin, dashboard, player, permissions]
+sprint: Unassigned (Target: V1.3.0)
+assignee: Unassigned
+target-release: V1.3.0
+labels: [admin, dashboard, player, permissions, ready]
+foundation-complete: true
+code-reuse-estimate: 70%
 ```
+
+## 🎯 Development Notes
+**Foundation Status**: ✅ Complete (V1.2.0 Super Admin Dashboard)  
+**Estimated Effort**: 1-2 days (simplified scope with established patterns)  
+**Dependencies**: None (foundation patterns established)  
+**Priority**: Medium (after Team Manager Admin View)
 
 ## 🎯 Story Description
 **Objective**: Create admin view for Player users with personal profile management and team interaction capabilities.

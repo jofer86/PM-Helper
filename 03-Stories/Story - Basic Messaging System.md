@@ -5,7 +5,8 @@
 **Epic**: Communication Foundation  
 **Priority**: Medium  
 **Story Points**: 5  
-**Status**: Ready for Development  
+**Status**: 📋 BACKLOG (Not Implemented)  
+**Target Release**: TBD (Future Sprint)
 
 ## 👤 User Story
 **As a** team manager or parent  
