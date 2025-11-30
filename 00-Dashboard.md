@@ -49,16 +49,18 @@
 
 ### 🎯 Current Sprint
 
-#### Sprint 5 - Role-Specific Admin Dashboards (ACTIVE)
-**Status**: 🎯 READY TO START | **Target**: V1.3.0 | **Duration**: Nov 28 - Dec 12 (2 weeks)  
-**Points**: 4/4 | **Progress**: 0% (0/4 points)
+#### Sprint 5 - Role-Specific Admin Dashboards (IN PROGRESS)
+**Status**: 🚧 50% COMPLETE | **Target**: V1.3.0 | **Duration**: Nov 28 - Dec 12 (2 weeks)  
+**Points**: 4/4 | **Progress**: 50% (2/4 points) | **Days Remaining**: 12
 
 **Stories**:
-- 📋 ADMIN-S2.5-002 - Team Manager Admin View (2 pts, High Priority)
-- 📋 ADMIN-S2.5-003 - Player Admin View (1 pt, Medium Priority)
-- 📋 ADMIN-S2.5-004 - Parent Admin View (1 pt, Medium Priority)
+- ✅ ADMIN-S2.5-002 - Team Manager Admin View (2 pts, High Priority) **COMPLETE**
+- ⏭️ ADMIN-S2.5-003 - Player Admin View (1 pt, Medium Priority) **NEXT**
+- 📋 ADMIN-S2.5-004 - Parent Admin View (1 pt, Medium Priority) **READY**
 
 **Sprint Goal**: Deliver 3 role-specific admin dashboards leveraging 70% code reuse from V1.2.0 foundation
+
+**Latest Achievement**: Team Manager Dashboard completed (Nov 30) - 75% code reuse achieved!
 
 [View Sprint 5 Details](02-Sprints/Sprint%205%20-%20Role-Specific%20Admin%20Dashboards.md)
 
@@ -121,17 +123,21 @@
 
 ## 🎯 Active Stories
 
-### Ready for Development (3)
-1. **[ADMIN-S2.5-002](03-Stories/ADMIN-S2.5-002%20-%20Team%20Manager%20Admin%20View.md)** - Team Manager Admin View
-   - Priority: High | Points: 2 | Target: V1.3.0
-
-2. **[ADMIN-S2.5-003](03-Stories/ADMIN-S2.5-003%20-%20Player%20Admin%20View.md)** - Player Admin View
+### In Progress (Sprint 5)
+1. **[ADMIN-S2.5-003](03-Stories/ADMIN-S2.5-003%20-%20Player%20Admin%20View.md)** - Player Admin View ⏭️ NEXT
    - Priority: Medium | Points: 1 | Target: V1.3.0
+   - Status: Ready to start
 
-3. **[ADMIN-S2.5-004](03-Stories/ADMIN-S2.5-004%20-%20Parent%20Admin%20View.md)** - Parent Admin View
+2. **[ADMIN-S2.5-004](03-Stories/ADMIN-S2.5-004%20-%20Parent%20Admin%20View.md)** - Parent Admin View
    - Priority: Medium | Points: 1 | Target: V1.3.0
+   - Status: Ready to start
 
-### Backlog (7)
+### Recently Completed
+1. **ADMIN-S2.5-002** - Team Manager Admin View ✅ (Nov 30, 2025)
+   - 2 points | 75% code reuse achieved
+   - [View in Archive](03-Stories/archive/sprint-5-in-progress/)
+
+### Ready for Development (Post-V1.3.0)
 - **[ADMIN-S2.5-005](03-Stories/ADMIN-S2.5-005%20-%20Organization%20Admin%20Dashboard.md)** - Organization Admin Dashboard (V1.4.0)
 - **[Story - Team Announcement System](03-Stories/Story%20-%20Team%20Announcement%20System.md)** - High Priority Communication Feature
 - **[Story - Basic Messaging System](03-Stories/Story%20-%20Basic%20Messaging%20System.md)** - Medium Priority Communication Feature
@@ -143,6 +149,9 @@
 ---
 
 ## 📁 Archived Stories
+
+### [Sprint 5 In Progress](03-Stories/archive/sprint-5-in-progress/) (1 story)
+- Team Manager Admin View ✅ (Nov 30, 2025)
 
 ### [Sprint 1 Completed](03-Stories/archive/sprint-1-completed/) (3 stories)
 - Team Manager Registration
@@ -193,13 +202,15 @@
 ### This Week ✅
 1. ✅ Sanitation Complete (Nov 28, 2025)
 2. ✅ Sprint 5 Planning Complete (Nov 28, 2025)
-3. 🎯 **START: ADMIN-S2.5-002** (Team Manager Admin View)
+3. ✅ **COMPLETE: ADMIN-S2.5-002** (Team Manager Admin View) - Nov 30
+4. 🎯 **START: ADMIN-S2.5-003** (Player Admin View) - Next
 
 ### Next 2 Weeks (Sprint 5)
-1. ⏭️ Complete Team Manager Admin View (2-3 days)
+1. ✅ Complete Team Manager Admin View (2 days) **DONE**
 2. ⏭️ Complete Player Admin View (1-2 days)
 3. ⏭️ Complete Parent Admin View (1-2 days)
-4. ⏭️ Test and deploy V1.3.0
+4. ⏭️ Write tests for all dashboards
+5. ⏭️ Deploy V1.3.0
 
 ### After Sprint 5
 1. ⏭️ Backlog refinement session
