@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Dashboard.md",
+                "file": "03-Stories/ADMIN-S2.5-002 - Team Manager Admin View.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-Dashboard"
+              "title": "ADMIN-S2.5-002 - Team Manager Admin View"
             }
           }
         ]
@@ -184,8 +184,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "65fabc1f6752f606",
+  "active": "d941265179bb44f0",
   "lastOpenFiles": [
+    "00-Dashboard.md",
     "02-Sprints/Sprint 5 - Role-Specific Admin Dashboards.md",
     "SANITATION_COMPLETE.md",
     "SANITATION_SUMMARY.md",
@@ -215,7 +216,6 @@
     "03-Stories/ADMIN-S2.5-004 - Parent Admin View.md",
     "03-Stories/STM-S4-002 - User Authentication & Role Testing.md",
     "02-Sprints/Sprint-2.5-Polish-BugFix.md",
-    "02-Sprints/Sprint 2 - Communication & Roles.md",
     "generated-docs/repomix_output.xml",
     "generated-docs",
     "12-Journal",
