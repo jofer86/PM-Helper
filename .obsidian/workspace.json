@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03-Stories/ADMIN-S2.5-002 - Team Manager Admin View.md",
+                "file": "03-Stories/BUG-S5-001 - Parent-Player Relationship & Assignment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ADMIN-S2.5-002 - Team Manager Admin View"
+              "title": "BUG-S5-001 - Parent-Player Relationship & Assignment"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "d941265179bb44f0",
   "lastOpenFiles": [
+    "03-Stories/STM-S5-001 - Team Activity Calendar.md",
     "00-Dashboard.md",
     "02-Sprints/Sprint 5 - Role-Specific Admin Dashboards.md",
     "SANITATION_COMPLETE.md",
@@ -215,7 +216,6 @@
     "03-Stories/ADMIN-S2.5-003 - Player Admin View.md",
     "03-Stories/ADMIN-S2.5-004 - Parent Admin View.md",
     "03-Stories/STM-S4-002 - User Authentication & Role Testing.md",
-    "02-Sprints/Sprint-2.5-Polish-BugFix.md",
     "generated-docs/repomix_output.xml",
     "generated-docs",
     "12-Journal",
